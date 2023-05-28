@@ -1,4 +1,4 @@
-#                                                                       Procedural-Terrain-Generation
+# :-: Procedural-Terrain-Generation
 
 <img width="100%" alt="image" src="https://github.com/disha101003/Procedural-Terrain-Generation/assets/111421981/af1ab0c5-221b-40cc-b99d-cc2a13df5a12">
 <img width="720" alt="image" src="https://github.com/disha101003/Procedural-Terrain-Generation/assets/111421981/b4bd0c96-5e8b-42ec-9a97-d6f067f69cf6">
